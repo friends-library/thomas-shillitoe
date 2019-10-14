@@ -870,7 +870,10 @@ may furnish some idea of the state of desperate wickedness,
 many of those we have been visiting must be sunk into;
 and yet their conduct towards us was unimpeachable.
 
-"`Whereas,
+[.embedded-content-document.paper]
+--
+
+Whereas,
 the alarming depredations continually committed by a very
 daring and daily increasing combination of thieves,
 extending their ravages for many miles round the country,
@@ -883,7 +886,7 @@ such measures as may tend to produce the desired effect,
 by striking at the root of such a system of iniquitous practice, as, it is supposed,
 never was equalled in any other part of the kingdom.
 
-"`The committee, in pursuance of their appointment, have met at Kingswood-hill,
+The committee, in pursuance of their appointment, have met at Kingswood-hill,
 and resolved (in an entirely gratuitous manner,
 and with unremitted attention,) to use every exertion in
 their power to promote the designs of this institution;
@@ -891,7 +894,7 @@ and having acquired a comprehensive view of this singular system,
 as to the different modes in which their diabolical purposes are accomplished,
 conceive it not irrelevant to detail a few particulars.
 
-"`This scheme of unparalleled enormity demanding such earnest attention,
+This scheme of unparalleled enormity demanding such earnest attention,
 has been progressively and uninterruptedly maturing for a long series of years;
 and such is the nature of their establishment,
 that whole families are dependent on this combination for maintenance;
@@ -901,7 +904,7 @@ It is also ascertained,
 that they are in the habit of decoying labourers from their accustomed employment,
 and formally admitting them into their society.
 
-"`Great numbers of hucksters, in this and the surrounding neighbourhood,
+Great numbers of hucksters, in this and the surrounding neighbourhood,
 are in alliance with them;
 the venders of the goods are seen passing with cart-loads
 to and from different places by night,
@@ -915,7 +918,7 @@ for any one daring to impeach them would endanger both property and life;
 consequently ordinary means adopted by societies in general in offering rewards,
 would be altogether abortive.
 
-"`Should the statement of these circumstances create surprise,
+Should the statement of these circumstances create surprise,
 or be deemed an exaggeration, suffice it to observe, that the committee,
 several of whom have been long resident in Kingswood,
 close observers of the transactions alluded to,
@@ -924,7 +927,7 @@ qualified to meet the exigencies of the society,
 stand pledged to give the most positive proof of their existence,
 which is sufficiently notorious to the majority of the inhabitants of these parts.
 
-"`The great number of persons resident in the neighbourhood of Kingswood
+The great number of persons resident in the neighbourhood of Kingswood
 might reasonably have encouraged us to expect extensive assistance:
 such, however, is the astonishing terror prevalent in the minds of very many,
 arising from an apprehension that the incensed miscreants would
@@ -942,4 +945,6 @@ the committee have determined on such cautious and vigorous
 steps as are very likely to accomplish their designs;
 and hope, through the united exertions of many of the respectable inhabitants of Bristol,
 Bath, Kingswood, and their vicinity,
-to be soon enabled to proceed to successful operation.`"
+to be soon enabled to proceed to successful operation.
+
+--

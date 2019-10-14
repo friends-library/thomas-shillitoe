@@ -555,11 +555,14 @@ and therefore I shall be obliged by your meeting giving me no more trouble.`"
 We parted apparently with kindness, for which I felt thankful.
 Shortly after which I received the following, addressed to me:--
 
-"`At a Yearly Meeting of ministers and elders, held in New York,
+[.embedded-content-document.letter]
+--
+
+At a Yearly Meeting of ministers and elders, held in New York,
 and opened the 24th of fifth month, 1828, and met again by adjournments the 28th, 29th,
 30th and 31st of the same inclusive.
 
-"`This meeting has been brought under exercise and concern,
+This meeting has been brought under exercise and concern,
 on account of the movements of our friends from England,
 now on a religious visit to this country,
 and apprehending their services in the line of the ministry ought to cease,
@@ -576,9 +579,13 @@ and that a copy be directed to our subordinate meetings of ministers and elders,
 and to the Yearly and second-day morning meeting
 of ministers and elders to be held in London.
 
+[.signed-section-closing]
 +++[+++Extracted from the minutes.]
 
+[.signed-section-signature]
 John Barrow, Clerk.
+
+--
 
 First-day, attended at Rose street house in the morning;
 we had a very trying meeting from the anti-christian doctrines

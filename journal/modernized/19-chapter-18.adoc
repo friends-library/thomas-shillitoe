@@ -307,6 +307,10 @@ him on the subject that had thus brought us together.
 The following copy of a letter of the bishop of Christian-sands,
 will give a statement of the complaint brought against the Friend.
 
+[.embedded-content-document.legal]
+--
+
+[.letter-heading]
 From the Bishop Sorensen of Christian-sands, to the constituted Dean of Stavanger.
 
 In a letter 26th last month, the church department has informed me,
@@ -334,9 +338,13 @@ cannot be expected graciously to be granted or permitted,
 unless they bind themselves not to make proselytes, and from admitting new members,
 as also to pay taxes and duties, as other subjects or bergers of the state.
 
+[.signed-section-signature]
 C+++.+++ SORENSEN.
 
+[.signed-section-context-close]
 1822+++.+++
+
+--
 
 In the course of conversation with the counsellor,
 it was evident he had imbibed sentiments to the prejudice of our religious Society,
@@ -508,7 +516,7 @@ which is unusual at the mid-week meeting.
 What I had to offer to my friends, was considered to be a word in season.
 
 Fifth-day morning, much instructed by reading some remarks of Potto Brown,
-in Piety Promoted.
+in [.book-title]#Piety Promoted#.
 "`This day,`" says he, "`was a day of hard labour to me,
 because I was off my guard last night, by entering into a long and needless discourse,
 which drew my mind from the Lord; but he was good, and heard me when I cried;

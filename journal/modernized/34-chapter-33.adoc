@@ -961,6 +961,9 @@ and taking off his hat and placing his hands on the back of a chair, expressed h
 through the interpreter, as follows;
 which was afterwards confirmed to me by a Friend present well versed in the Indian language.
 
+[.embedded-content-document.address]
+--
+
 Brother, we received a notice two days ago,
 that you requested an opportunity with the Indians of Cattaraugus.
 This is the day you wished to meet with us, we have now come together at your request.
@@ -977,10 +980,12 @@ and we wish you to communicate freely the whole of your message to us.
 You must not feel disappointed that we are not all got together;
 many of our people are gone to the woods to make sugar;
 we will at some convenient time explain to those
-that are not present what we shall hear from you.`"
+that are not present what we shall hear from you.
 (A Friend, well acquainted with their manners,
-assured me this would be faithfully performed.) "`Brother,
-it is our custom in this way to introduce strangers, you are now at liberty to proceed.`"
+assured me this would be faithfully performed.) Brother,
+it is our custom in this way to introduce strangers, you are now at liberty to proceed.
+
+--
 
 After the chief warrior, Wiandegughta, had closed his remarks, which he made in a solid,
 feeling manner, he retired to his seat again a pause then took place,
@@ -989,6 +994,9 @@ The Indian who had been engaged as my interpreter arose,
 and great quietness was observed during the time I was in testimony among them,
 and when I had closed, after a pause, the chief warrior again stepped forward,
 and expressed himself in a very broken, feeling manner, as follows:
+
+[.embedded-content-document.address]
+--
 
 Brother,
 we have listened with attention to what you have said,--your words have
@@ -1000,6 +1008,8 @@ We feel sensible of the truths you have told us,
 and we will try to treasure them up in our minds;--we feel thankful
 to the Good Spirit for his continued care over you,
 and for the present opportunity afforded us.
+
+--
 
 After giving our hands, both to the Indian men and women, we parted;
 and I returned to our friend David Pound`'s for the night.

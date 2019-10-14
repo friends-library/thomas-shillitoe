@@ -461,6 +461,9 @@ in order to refute any misrepresentation that might get abroad relative to that 
 forwarded to a Friend of this Quarterly Meeting the following statement,
 of which he furnished us with a copy:
 
+[.embedded-content-document.testimony]
+--
+
 Feeling much sympathy for our dear friend Thomas Shillitoe,
 and his companion James Emlen, who, we are informed,
 are going on to your Quarterly Meeting, we thought it our duty to say,
@@ -504,7 +507,10 @@ we felt best satisfied to give you the foregoing brief information,
 craving your sympathy, protection, and brotherly regard for them,
 believing them to be vessels for the Master`'s use.
 
+[.signed-section-signature]
 +++[+++Signed by five Friends.]
+
+--
 
 Information being received by some Friends of this Quarterly Meeting,
 that Elias Hicks was in the neighbourhood, intending to be at the Quarterly Meeting,
