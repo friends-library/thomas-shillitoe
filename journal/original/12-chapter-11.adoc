@@ -549,10 +549,16 @@ How shall I be able to describe my feelings! the safest spot for me,
 is to see and feel myself an unprofitable servant; having done what was required of me,
 not of myself, but through the aid of Divine grace.
 
+[.offset]
 Here follows a copy of the letter.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To The Prince Regent.
 
+[.signed-section-context-open]
 6th of Eighth month, 1813.
 
 Under a feeling of religious love,
@@ -741,7 +747,10 @@ through an humble instrument, remember that thou hast been solemnly warned!
 With fervent desires for thy real happiness, both here and hereafter, I remain,
 dutifully, and very respectfully, thy sincere friend,
 
+[.signed-section-signature]
 Thomas Shillitoe.
+
+--
 
 I remained at Brighton until the third day, to be forthcoming, and answer for myself,
 should any unpleasantness have arisen in consequence of the letter.

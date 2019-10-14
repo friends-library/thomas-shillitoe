@@ -56,7 +56,8 @@ and the few that were left were taken into an upper story of the dwelling-house.
 The meeting-house appeared well calculated for accommodating about two hundred persons,
 and very quietly situated:
 in the upper story of the dwelling-house were several large chests,
-in which were a quantity of Barclay`'s Apology, and Sewel`'s History, in sheets,
+in which were a quantity of Barclay`'s [.book-title]#Apology#,
+and Sewel`'s [.book-title]#History#, in sheets,
 with pamphlets in the Dutch language;
 a few of the Apology and Sewel`'s History we had bound,
 and distributed where they were likely to be useful.
@@ -583,6 +584,10 @@ put into my hands her sentiments on our religious Society, saying,
 she could better convey to my understanding her sentiments in writing,
 than by her broken manner of expressing herself, which was as follows:
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Dear friend,
 
 I am glad that Providence brought you in this country and in our town,
@@ -605,7 +610,10 @@ God bless you,
 and give us grace to find one another in eternity by the throne of the Lamb,
 where all who love him shall be one in Christ.
 
+[.signed-section-signature]
 Jacobas G. Rocauet.
+
+--
 
 In the afternoon, we took tea with the preacher of what is called the Scotch church,
 hoping to insure his company to the prison: on our informing him what we had in prospect,
@@ -775,7 +783,7 @@ He seemed to receive willingly what I offered, saying,
 so far as he had knowledge of our Society, from what he had read,
 he was nearly united to it;
 and was desirous of becoming better acquainted with our principles:
-I forwarded him an Apology and Sewel`'s History in his own language.
+I forwarded him an [.book-title]#Apology# and Sewel`'s [.book-title]#History# in his own language.
 
 I found I had to pass through another baptism,
 if I quitted Rotterdam with a peaceful mind; but human nature recoiled at it;
@@ -879,7 +887,7 @@ After a short time I observed one of these persons coming towards me with anothe
 who to my agreeable surprise was an Englishman: he introduced me to my friend A. V+++______+++,
 who proposed my passing the evening at his residence.
 But there was another difficulty to get over, the lack of an interpreter: however,
-after a pause, I laid my hand on the shoulder of the Englishinan,
+after a pause, I laid my hand on the shoulder of the Englishman,
 telling him I pressed him into our service, which he consented to.
 In the evening I attended to my appointment; where,
 in addition to my friend A. V+++______+++ and his wife, I had the company of his parents,

@@ -272,8 +272,13 @@ and the blessing it may prove to the kingdom of Prussia,
 that her next sovereign in succession, has such a pious aide-de-camp, as the count,
 so near his person.
 
+[.offset]
 The letter Englished is as follows:
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 My dear and honoured friend,
 
 I have been very sorry that we missed one another,
@@ -296,9 +301,13 @@ the communion of the Spirit, and the love of the Father, and his fear.
 With sincere and cordial love, I am,
 my dear friend`'s faithful and devoted friend and brother,
 
+[.signed-section-signature]
 Charles Count V+++______+++,
 
+[.signed-section-context-close]
 Berlin, 2nd March, 1825.
+
+--
 
 Sixth-day, we left Berlin, and reached Brandenburg to lodge.
 Seventh-day, we reached Magdeburg early in the evening,
@@ -478,7 +487,11 @@ by presenting each of them with a religious publication,
 which to me appeared suitable for the occasion, I wrote letters to accompany them,
 and committed them to the care of a kind friend for delivery.
 
+[.offset]
 That to the emperor was as follows:
+
+[.embedded-content-document.letter]
+--
 
 Thomas Shillitoe has taken the liberty of requesting his dear illustrious friend
 will accept of this small token of his continued sincere love and regard.
@@ -497,10 +510,16 @@ the allotment designed for him in this state of probation;
 and finally, through the merits of the great Redeemer,
 receive a crown of glory that fades not away.
 
+--
+
 Prudence seemed to dictate my not inserting the name
 "`emperor,`" lest the parcel should be intercepted.
 
+[.offset]
 That to the prince Alexander Galitzin, and his secretary, was as follows:
+
+[.embedded-content-document.letter]
+--
 
 I believe I can safely say, a day has not passed since our parting,
 wherein I have not recurred to the frequent opportunities we had together,
@@ -520,7 +539,10 @@ all righteousness may be permitted to assail your minds.
 That this may be our united experience, is the fervent prayer of my soul.
 Please accept of a small token of my remembrance.
 
+[.signed-section-signature]
 Thomas Shillitoe.
+
+--
 
 The Yearly Meeting being over, I returned to Sheffield.
 Not getting better of that lassitude, weariness,
@@ -546,7 +568,7 @@ I set about the business in good earnest.
 When I had fully satisfied myself by witnessing the manner
 in which these baths were neglected every way,
 except the bare use of the water, the next consideration was,
-how these things were to be remedied; and I found I must not lea`'ve Buxton,
+how these things were to be remedied; and I found I must not leave Buxton,
 if I was favoured to preserve a peaceful, quiet mind,
 until I had made every effort in my power towards the accomplishment of this object.
 I turned my attention first to one person and then to another in the place,
@@ -580,8 +602,13 @@ thinking, if a difficulty should arise about my obtaining an interview,
 this might in some way be a help to me: I then wrote the following note,
 and sent it to the duke:
 
+[.embedded-content-document.letter]
+--
+
 One of the Society of Friends, wishes in person to present the duke with a work,
 which he hopes the duke will find an interest in reading.
+
+--
 
 The note being sent, I was immediately introduced to the duke,
 who received me with great affability, requesting I would take a seat:

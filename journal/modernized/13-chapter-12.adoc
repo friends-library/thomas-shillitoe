@@ -47,8 +47,13 @@ making melody in my heart to the Lord, who had thus in mercy supported me,
 and brought me through this trial.
 Here follows the address.
 
+[.embedded-content-document.address]
+--
+
+[.letter-heading]
 An Address to Friends in Great Britain and Ireland.
 
+[.salutation]
 Dear Friends,
 
 In the first place,
@@ -166,7 +171,7 @@ how shall I deliver you, Israel?
 how shall I make you as Admah?
 how shall I set you as Zeboim?
 Mine heart is turned within me; my repentings are kindled together.
-I will not excute the fierceness of mine anger; I will not return to destroy Ephraim;
+I will not execute the fierceness of mine anger; I will not return to destroy Ephraim;
 for I am God and not man; the Holy One in the midst of you:
 and I will not enter into the city.`' May we no longer be
 found walking unworthy of these His multiplied mercies,
@@ -902,7 +907,7 @@ Such as have this dependence,
 will know it to be a truth fulfilled in their own individual experience,
 that '`They that trust in the Lord shall be as Mount Zion, which cannot be removed;
 but abides forever;`' and that as '`the mountains are round about Jerusalem,
-so the Lord is round about his people from henceforth even forever.`' Novy, Friends,
+so the Lord is round about his people from henceforth even forever.`' Now, Friends,
 be willing to take up this cross,
 for I have found it to be one of the many crosses I have had to take up,
 and avoid reading political publications, and, as much as possible, newspapers;
@@ -936,6 +941,10 @@ no longer be permitted to rob and spoil us,
 but the language go forth respecting us, '`Happy are you, O Israel, who is like unto you,
 O people; saved by the Lord.`'
 
+[.signed-section-signature]
 Thomas Shillitoe.
 
+[.signed-section-context-close]
 Hitchin, 1st of Eleventh month, 1820.
+
+--

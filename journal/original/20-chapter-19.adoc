@@ -194,6 +194,10 @@ and look as if they were well supplied with food, and are very clean in their pe
 for these comforts I understand they are much indebted to the baron.
 Here follows the address:
 
+[.embedded-content-document.address]
+--
+
+[.letter-heading]
 To The Convicts in the Castle of Aggerhuus.
 
 Having had a previous opportunity with you, and yet feeling something further on my mind,
@@ -395,14 +399,26 @@ and that he was remarkable for his strict administration of justice:
 this circumstance should therefore animate and encourage you,
 to press after the like happy change; and that you may, is my sincere desire.
 
-I remain your well-wishing friend, "`Thomas Shillitoe.
+[.signed-section-closing]
+I remain your well-wishing friend,
 
+[.signed-section-signature]
+Thomas Shillitoe.
+
+[.signed-section-context-close]
 14th of Fifth month, 1822.
 
+--
+
+[.offset]
 Extract from a letter, written by Enoch Jacobson,
 giving an account of the delivery of the Address, by the Baron,
 to the prisoners at the castle.
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Christiana, 17th of Sixth month, 1822.
 
 First-day, after thou leftest me, in company with the baron, the mayor of the fort,
@@ -436,6 +452,8 @@ it reminded me of our former visit there.
 At the close of the reading, the baron addressed the prisoners in an encouraging manner;
 and when they left the room,
 their countenances evinced that the opportunity had been to them a satisfactory one.
+
+--
 
 After having, in adorable mercy, for so I humbly hope I may say I esteem it,
 been brought through all my difficulties thus far,

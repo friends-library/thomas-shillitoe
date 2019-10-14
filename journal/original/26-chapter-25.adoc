@@ -426,6 +426,10 @@ and feeling in our minds that something was due from us to the prince witgenstei
 for the kind attention and assistance which he had afforded us,
 we drew up the following address:
 
+[.embedded-content-document.address]
+--
+
+[.letter-heading]
 To The Prince Witgenstein.
 
 It is with feelings of gratitude,
@@ -458,13 +462,19 @@ readers reading to the rest of the prisoners every evening:
 the prisoners at Hamburgh, we observed, were each furnished with books,
 and we think to great advantage.
 
+[.signed-section-closing]
 We are, with feelings of sincere regard,
 
+[.signed-section-closing]
 Thy affectionate friends,
 
+[.signed-section-signature]
 Thomas Christy, Thomas Shillitoe.
 
+[.signed-section-context-close]
 Berlin, 10th of Eighth month, 1824.
+
+--
 
 After signing the above, my dear companion took the diligence for Hamburgh,
 leaving me to fill up my measure of suffering and exercise,
@@ -491,6 +501,9 @@ for liberty to visit the men prisoners again at Spandau:
 our address of acknowledgment of the prince`'s kindness being still in my possession,
 I made the following addition to it:
 
+[.embedded-content-document.address]
+--
+
 So far as my visit to the prisoners went, when at Spandau, it was to me satisfactory;
 but as this visit was only partial--those considered to be the most desperate
 characters amongst the men not being present at the opportunity,
@@ -504,7 +517,10 @@ as I am not sure that my former letter will be sufficient
 to admit me for that purpose again,
 I shall feel truly thankful for it.
 
+[.signed-section-signature]
 Thomas Shillitoe.
+
+--
 
 Sixth-day, having made this addition,
 my kind friend Lewis Seebohm proceeded to the prince`'s residence; he being from home,
@@ -571,8 +587,12 @@ to proceed in this awful and important engagement before me;
 and that neither hurting nor destroying should be
 suffered to come upon me or any of my helpers therein.
 
+[.offset]
 This evening a messenger arrived with an order from the minister of justice,
 +++[+++of which the following seems to be a rough translation:]
+
+[.embedded-content-document.letter]
+--
 
 There is no hesitation that the institution for correction and improvement,
 and all the prisoners, at Spandau, including those that are separated,
@@ -581,11 +601,16 @@ footnote:[Probably meaning his interpreter.]
 of the communion of Quakers in London, and be presented before him,
 that he may converse with them; which the director has to mind.
 
+[.signed-section-signature]
 Kirchein, Minister of Justice.
 
+[.signed-section-context-close]
 Berlin, 14th August, 1824.
 
+[.signed-section-context-close]
 To the Institution for Correction and Improvement.
+
+--
 
 This order being received,
 I found it best to engage a carriage to take us to Spandau in the morning,
@@ -795,9 +820,14 @@ yet my exercise continued, and by endeavouring to keep patient under it,
 the way in due time opened for my relief, by taking up my pen,
 and committing to writing what arose in my mind, which was as follows:
 
+[.embedded-content-document.epistle]
+--
+
+[.letter-heading]
 To the seriously awakened minds, who are mourning, in the higher circles of life,
 in Berlin.
 
+[.signed-section-context-open]
 Berlin, 16th of Eighth month, 1824.
 
 The more exalted the situation of life we are by
@@ -830,7 +860,10 @@ for the kind reception of my feeble endeavours, and the assistance I have met wi
 I take my last farewell of these amongst you.
 I have made acquaintance with many, of whom I can say, they are as bone of my bone.
 
+[.signed-section-signature]
 Thomas Shillitoe.
+
+--
 
 The above being put into the hands of a faithful, pious individual about the court,
 for circulation amongst those to whom it was addressed, my services here closed.

@@ -454,12 +454,17 @@ which I had reason to believe would be the case,
 from the agreeable manner in which they were received,
 and from the conclusion come to of reading it at the close of their worship.
 
+[.offset]
 The address was as follows:
 
+[.embedded-content-document.address]
+--
+
+[.letter-heading]
 An Address to the English Protestants in Russia,
 more particularly to those resident at Petersburgh, Cronstadt, and Moscow.
 
-"`Since my lot has been cast in this city,
+Since my lot has been cast in this city,
 I have felt a lively interest for the best welfare of the native inhabitants;
 before landing on this shore, my mind was warmly engaged on your account,
 my dear countrymen; accompanied with more than usual feelings of solicitude,
@@ -589,9 +594,13 @@ and the Lord give you understanding in all things.
 Whilst I am addressing others, I feel the need of taking heed to myself;
 which I humbly hope will never be lost sight of by your sincere friend and well wisher.
 
+[.signed-section-signature]
 Thomas Shillitoe.
 
+[.signed-section-context-close]
 Petersburgh, Twelfth month, 1824.
+
+--
 
 Fifth-day, I walked out to meeting, and returned home to tea,
 at times not a little thoughtful how I should acquit myself before the emperor;
@@ -890,6 +899,9 @@ Seventh-day, 8th of first month, the time being come,
 when I must announce to the emperor my prospect of leaving Petersburgh,
 I wrote the following note to his secretary:
 
+[.embedded-content-document.letter]
+--
+
 I have been notified in the newspapers as about to leave this country,
 and I should wish to be at liberty in two weeks:
 it is necessary I should secure my place as early
@@ -900,9 +912,13 @@ thus craving an opportunity to take my leave of him.
 I wish respectfully to say, I am now holding myself in readiness to wait upon him,
 at such time as he may think most suitable to appoint.
 
+[.signed-section-signature]
 Thomas Shillitoe.
 
+[.signed-section-context-close]
 Petersburgh, 8th of First month, 1825.
+
+--
 
 In reply to which, in the course of the day, I received a note from the prince,
 informing me I might make the necessary arrangements for my departure,
@@ -1125,6 +1141,9 @@ from the information given me by one of the managers of the institution,
 of the declining state in which it was,
 I left the following copy thereof with the emperor:
 
+[.embedded-content-document.paper]
+--
+
 The sales of the Holy Scriptures increased gradually until the year 1823;
 since that time they have rapidly decreased; in the last half-year of 1824,
 scarcely any orders have been received from the societies in the interior:
@@ -1166,7 +1185,9 @@ is neglected and falling to decay; and while, it is said,
 the people are anxiously desiring a supply of the Old Testament in their native tongue,
 they are denied this privilege.
 Seeing things are thus managed, may I not add the language of the Most High,
-through one of his prophets, '`Shall I not visit for these things!`'.
+through one of his prophets, '`Shall I not visit for these things!`'
+
+--
 
 A full opportunity having now been afforded me to relieve my mind of all that I apprehended
 was required of me to express to the emperor in the line of religious duty,

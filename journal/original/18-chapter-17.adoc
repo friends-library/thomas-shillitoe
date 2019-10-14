@@ -569,10 +569,16 @@ I saw no way for my relief but by being willing to take up my pen, and as matter
 commit it to paper this I accordingly did,
 and the delivery of it a kind friend undertook.
 
+[.offset]
 It was as follows, viz:
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To the attendants on the queen, whose company I was favoured with at the palace.
 
+[.salutation]
 Respected friends,
 
 Believing, if I had not so hastily departed from the palace,
@@ -662,9 +668,13 @@ we cannot experience a putting on the new man, Christ Jesus the Lord from heaven
 the quickening Spirit; which I crave for you all as for my own soul,
 and bid you God speed, remaining very affectionately, your well-wishing friend,
 
+[.signed-section-signature]
 Thomas Shillitoe.
 
+[.signed-section-context-close]
 Copenhagen, 7th of Twelfth month, 1821.
+
+--
 
 I waited on my kind friend the doctor, requesting my letters; who informed me,
 he had been in conversation with the king this morning,
@@ -826,8 +836,13 @@ He expressed his regret that his business was not accomplished,
 or he could care for me to Gottenburgh, the place of his residence;
 he furnished me with the following letter to his family:
 
+[.offset]
 Translation.
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Elsenburgh, 10th December, 1821.
 
 The bearer of this, Mr. T. Shillitoe, who intends to travel to Norway,
@@ -836,7 +851,10 @@ and beg you to do everything for him in order to make him, on his journey,
 as comfortable as possible; help him in every respect,
 and try to furnish him with every obtainable convenience.
 
+[.signed-section-signature]
 J+++.+++ M. Lundberg.
+
+--
 
 This unexpected occurrence was fresh cause for humbling my mind,
 producing feelings of gratitude, in the first place, to my Almighty Care-taker,
@@ -1066,7 +1084,7 @@ but the horses were not ready.
 
 When we came to the next station, although so much behind our time,
 we had to wait near an hour for the horses.
-To queslion my care-taker about the cause of this delay, was of no use,
+To question my care-taker about the cause of this delay, was of no use,
 as I could not believe him if he spoke the truth,
 and I had no means of obtaining information from the keeper of the station.
 We did not reach the second station until eleven o`'clock,

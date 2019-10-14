@@ -100,7 +100,7 @@ was to accompany us as our interpreter.
 My mind had been for some time exercised with an apprehension
 it would be required of me to walk in the Alley,
 or Parade, on a first-day evening,
-this being the chief place of concourse duinng the season for drinking the waters;
+this being the chief place of concourse during the season for drinking the waters;
 the theatres, gaming tables, and principal shops are situated in the Alley.
 This evening, accompanied by my friends, Benjamin Seebohm and John Yardley, I proceeded,
 I think I may say, in fear and trembling, unable as I was to see the result:
@@ -149,7 +149,7 @@ This evening we had a pretty general attendance of parents and children at the r
 Friends having been previously named for readers,
 who were to select suitable matter for reading.
 After some time passed in silence, a few chapters out of the New Testament,
-and parts of Sewel`'s History, were read; a pause took place, and Friends separated,
+and parts of Sewel`'s [.book-title]#History#, were read; a pause took place, and Friends separated,
 each manifesting satisfaction at being present at the opportunity.
 
 Second-day, accompanied by my kind friends, John Yardley and Benjamin Seebohm,
@@ -430,8 +430,13 @@ one of the addresses to Hamburgh having reached the hands of the brother,
 who fills a high office in the chamber of the Prince of Buckeburgh.
 I sent him some books, on the receipt of which he returned the following acknowledgment:
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Buckeburgh, 14th of October, 1822.
 
+[.salutation]
 My dear friend Shillitoe,
 
 It is pleasant to me to employ my pen in the familiar style
@@ -458,7 +463,10 @@ and preserve thee in this arduous undertaking, both in body and spirit.
 My sister greets thee,
 and hopes that thou wilt retain her in thy affectionate remembrance.
 
+[.signed-section-signature]
 L+++.+++ H.
+
+--
 
 On our way home our carriage-wheel came off,
 and our axletree broke by the fall of our carriage, which caused considerable difficulty,
@@ -482,7 +490,7 @@ the prospect of sitting down with the family, was to me discouraging; so much so
 I felt inclined to give it up; but by endeavouring after patience,
 I was preserved from this unadvised step, and we took our seats together.
 Soon after, the cow put out her head, and gave a loud bellow,
-and the pigs and the geese became very noisy`'. This
+and the pigs and the geese became very noisy. This
 interruption continued for some time,
 when, to my great surprise, all at once became quiet,
 as much so as if there had not been a living creature near besides ourselves;
@@ -644,7 +652,7 @@ and hearing of this circumstance awakened in my mind
 feelings of gratitude to my Divine Master,
 who had strengthened me to labour with the general and the governor on this subject.
 
-15th of tenth month, 1822, I leff; Minden, and reached Billifield by night,
+15th of tenth month, 1822, I left Minden, and reached Billifield by night,
 where I was kindly cared for by my friend Lewis Seebohm and his wife.
 We were informed at Minden,
 that by crossing the country to Newn Churchen about twelve o`'clock at noon,
